@@ -1,2 +1,2 @@
-# Car-speed-detector
-It is my 20th project of whitehat jr.
+# p5.play-boilerplate
+Boiler plate for p5.play
